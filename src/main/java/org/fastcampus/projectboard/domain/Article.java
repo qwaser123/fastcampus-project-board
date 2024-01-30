@@ -3,6 +3,7 @@ package org.fastcampus.projectboard.domain;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
 
+
 public class Article {
     private Long id;
     private String title; // 제목
